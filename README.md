@@ -1,4 +1,4 @@
-## FALA MEUS GURI👋
+## SUP GUYS
 
 - 🔭 Data Assistant
 - 🌱 Learning Kotlin and Phyton
