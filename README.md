@@ -1,7 +1,7 @@
 ## SUP GUYS
 
 - 🔭 Data Assistant
-- 🌱 Learning Kotlin and Phyton
+- 🌱 Learning
 - 💬 Tell me more about cs
 - 📫 If u want to contact me -> c4ederson@gmail.com
 - 😄 Call me by my name
